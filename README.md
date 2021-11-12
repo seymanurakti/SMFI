@@ -29,6 +29,12 @@ The dataset samples are shared through a CSV file where the columns are as follo
 
 In order to retrieve the dataset, you should first download the NTU CCTV-Fights [here](https://rose1.ntu.edu.sg/dataset/cctvFights/).
 
+# Citation
+```
+TBA
+
+```
+
 # References 
 
 <b id="f1">1</b> Mauricio Perez, Alex C. Kot, Anderson Rocha, “Detection of Real-world Fights in Surveillance Videos”, in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019 [↩](#a1)
