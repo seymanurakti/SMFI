@@ -3,7 +3,7 @@ Detecting fights from still images is an important task required to limit the di
 
 In this context, a new image dataset on the fight recognition from still images task is collected named Social Media Fight Images (SMFI) dataset. The dataset samples gathered from social media (Twitter and Google) and NTU-CCTV Fights <sup id="a1">[1](#f1)</sup> dataset. Since the main concern is recognizing fight actions in the wild, real-world scenarios are included in the dataset where a mass amount of them are spontaneous recordings of fight actions. Using different keywords while crawling the data, the regional diversity is also maintained since the social media uploadings are mostly regional where users share the content in their own language. Some example images from the dataset are given below:
 
-![samples](https://github.com/wacv-rws-submission/fight-detection-from-still-images/blob/main/samples.png)
+![samples](https://github.com/sayibet/SMFI/blob/main/samples.png)
 
 Both fight and non-fight samples are collected from the same domain where the non-fight samples are also content likely to be shared on social media. Hard non-fight samples are also included in the dataset which displays the actions that might be misinterpreted as fight such as hugging, throwing ball, dancing and more. This prevents the dataset bias, so that the trained models focuses on the actions and the performers on the scene instead of benefiting other characteristics such as motion blur. The distribution of the dataset samples among each class and source is given below:
 
