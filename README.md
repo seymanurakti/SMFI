@@ -30,7 +30,7 @@ The dataset samples are shared through a CSV file where the columns are as follo
 In order to retrieve the dataset, you should first download the NTU CCTV-Fights [here](https://rose1.ntu.edu.sg/dataset/cctvFights/).
 
 # Citation
-Ş. Aktı, F. Ofli, M. Imran and H. K. Ekenel, "Fight recognition on still images in the wild", IEEE Winter Conference on Applications of Computer Vision Workshops (WACVW), 2022. 
+Ş. Aktı, F. Ofli, M. Imran and H. K. Ekenel, "Fight detection from still images in the wild", IEEE Winter Conference on Applications of Computer Vision Workshops (WACVW), 2022. 
 
 Paper is available on arXiv: [https://arxiv.org/abs/2111.08370](https://arxiv.org/abs/2111.08370)
 
