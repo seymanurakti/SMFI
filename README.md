@@ -15,8 +15,10 @@ Both fight and non-fight samples are collected from the same domain where the no
 
 Due to the copyright issues the dataset images are not shared directly and the links to the images / videos are shared. As the dataset samples might be deleted in time by the users or the authorities, the size of the dataset is subject to change. 
 
-# Dataset Format
-The dataset samples are shared through a CSV file where the columns are as follows:
+# Dataset
+Please fill out [this form](https://forms.gle/nMWpLbHa9ybhWHAd9) and then email/notify smfi_dataset@googlegroups.com to request the data.
+
+The dataset samples will be shared through a CSV file where the columns are as follows:
 - Image ID: Unique ID assigned to each image.
 - Class: class of the image as fight / nofight
 - Source: The source of the images or videos as twitter_img / twitter_video / google / ntu-cctv
